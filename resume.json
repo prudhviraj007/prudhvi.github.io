@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Fabiano Taioli",
+    "label": "Developer",
+    "picture": "http://www.gravatar.com/avatar/e700256406c0274e61418a575900dc76.png",
+    "email": "ftaioli@gmail.com",
+    "phone": "(+39) 3471150092",
+    "website": "",
+    "summary": "Growing up with Internet. Enthusiast of all open source technologies that are part of the web and their applications.",
+    "location": {
+      "address": "via Dismano n.7109",
+      "postalCode": "47522",
+      "city": "Cesena",
+      "countryCode": "IT",
+      "region": "Forli-Cesena"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "FbN",
+        "url": "https://github.com/FbN"
+      },
+      {
+        "network": "stack-overflow",
+        "username": "fabiano-taioli",
+        "url": "http://stackoverflow.com/users/1259815/fabiano-taioli"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vista tecnologie s.r.l.",
+      "position": "CTO/Web Developer",
+      "website": "http://www.vista.it",
+      "startDate": "2009-04-01",
+      "endDate": "",
+      "summary": "Web app development. Team management",
+      "highlights": []
+    },
+    {
+      "company": "Likella",
+      "position": "CTO/Developer",
+      "website": "http://likella.com",
+      "startDate": "2013",
+      "endDate": "",
+      "summary": "Startup project founded by Vista Tecnologie",
+      "highlights": [
+        "Business Social Network",
+        "Cloud (Amazon AWS)",
+        "Facebook/Google/Apple Integration"
+      ]
+    },
+    {
+      "company": "Glomex s.r.l.",
+      "position": "Developer",
+      "website": "http://glomex.it",
+      "startDate": "2004",
+      "endDate": "2006",
+      "summary": "Web based media center development",
+      "highlights": [
+        "Linux based"
+      ]
+    },
+    {
+      "company": "ClubClassic s.r.l.",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2003",
+      "endDate": "2004",
+      "summary": "Social network webapp development",
+      "highlights": [
+        "Credit card payment integration"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Bologna",
+      "area": "Information Technology",
+      "studyType": "Graduate (thesis on asynchronous web services ) ",
+      "startDate": "1999",
+      "endDate": "2009",
+      "gpa": "99/110",
+      "courses": []
+    },
+    {
+      "institution": "Zend Technologies",
+      "area": "PHP Engineer",
+      "studyType": "Certification",
+      "startDate": "2006",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Istituto Tecnico Industriale Blaise Pascal",
+      "area": "Information Tecnology",
+      "studyType": "IT Expert",
+      "startDate": "1993",
+      "endDate": "1998",
+      "gpa": "60/60",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "ajax",
+        "Responsive design",
+        "Seo"
+      ]
+    },
+    {
+      "name": "Backend development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "GROOVY (java)",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Synfony components",
+        "Zend",
+        "Doctrine",
+        "Bootstrap",
+        "Grails",
+        "Silex"
+      ]
+    },
+    {
+      "name": "Versioning, Dependecy managment and build tools",
+      "level": "Advanced",
+      "keywords": [
+        "GIT",
+        "Composer",
+        "Gradle"
+      ]
+    },
+    {
+      "name": "Dependecy managment, build and testing Tools",
+      "level": "good",
+      "keywords": [
+        "phpunit",
+        "npm",
+        "grunt",
+        "browserify"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "good",
+      "keywords": [
+        "Linux",
+        "OSX",
+        "Windows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium-Advanced"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
